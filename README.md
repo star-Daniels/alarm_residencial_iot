@@ -19,3 +19,6 @@ Um bot do Telegram envia as mensagens para o grupo do projeto.
 * Histórico de eventos da sessão atual.
 * Link para entrar no grupo do Telegram.
 * Tema escuro em roxo, responsivo para celular.
+
+### [Projeto no Wokwi](https://wokwi.com/projects/479770826276777985)
+
